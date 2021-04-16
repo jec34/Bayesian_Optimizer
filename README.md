@@ -1,4 +1,5 @@
 # Bayesian_Optimizer #
+CBE 60499 Optimization project
 
 Bayesian Optimizer object, designed to optimize expensive to optimizer expensive
 to evaluate functions by fitting a normal distribution of possible fits to the
