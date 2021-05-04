@@ -91,7 +91,7 @@ class BayesianOptimizer:
         return self._recommended_point
 
 
-    def update_model(self, new_input=None, acq_func=self._acq_func, n_iter=10):
+    def update_model(self, new_input=None, acq_func=EI, n_iter=10):
         """
         update model of function with new data
         Parameters:
